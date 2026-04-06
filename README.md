@@ -1,2 +1,15 @@
-# Automatic_Vacant_Parking_Places_Management_System_Using_Multicamera_Vehicle_Detection
-Vehicle Parking Detection System using Mask R-CNN to identify and monitor parking space occupancy from video streams with high accuracy under varying real-world conditions.
+# 🚗 Vehicle Parking Detection System
+
+## 📌 Overview
+This project uses Mask R-CNN and OpenCV to detect vehicles and identify vacant parking spaces using video streams.
+
+## 🛠️ Technologies
+- Python
+- OpenCV
+- Mask R-CNN
+- Flask
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python app.py
