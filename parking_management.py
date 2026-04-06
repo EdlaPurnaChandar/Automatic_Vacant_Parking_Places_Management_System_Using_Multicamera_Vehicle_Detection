@@ -1,8 +1,8 @@
 import argparse
 import sys
 from heapq import heapify, heappush, heappop
-from Models.Car import Car
-from Models.ParkingTicket import ParkingTicket
+from models.car import Car
+from models.parking_ticket import ParkingTicket
 
 class ParkingManagement:
     """
